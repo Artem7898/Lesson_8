@@ -1,4 +1,4 @@
-# Lesson_8 Algorithms:
+# Lesson_8 Algorithms: Python
 
 """
 Задание 1.
